@@ -1,1 +1,2 @@
 ini file sebelum menggunakan git
+ini tambahan baris kedua 
