@@ -1,1 +1,5 @@
+
 ini adalah file baru di lokal
+
+ini adalah file baru di github
+
